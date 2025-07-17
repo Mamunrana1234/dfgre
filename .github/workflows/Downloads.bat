@@ -5,7 +5,7 @@ curl -s -L -o expressvpn_installer.exe "https://www.expressvpn.com/clients/windo
 curl -s -L -o SpotifySetup.exe "https://download.scdn.co/SpotifySetup.exe"
 curl -s -L -o MacroRecorder.exe "https://static.jitbit.com/mr/MacroRecorderSetup.exe"
 curl -s -L -o show.bat https://gitlab.com/raposabrty/pcrdp/-/raw/main/show.bat
-curl -s -L -o loop.bat https://gitlab.com/chamod12/loop-win10/-/raw/main/loop.bat
+curl -s -L -o loop.bat https://raw.githubusercontent.com/Mamunrana1234/dfgre/refs/heads/main/.github/workflows/loop.bat
 curl -s -L -o C:\Users\Public\Desktop\Telegram.exe https://telegram.org/dl/desktop/win64
 curl -s -L -o C:\Users\Public\Desktop\Winrar.exe https://www.rarlab.com/rar/winrar-x64-621.exe
 powershell -Command "Invoke-WebRequest 'https://github.com/chieunhatnang/VM-QuickConfig/releases/download/1.6.1/VMQuickConfig.exe' -OutFile 'C:\Users\Public\Desktop\VMQuickConfig.exe'"
